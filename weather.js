@@ -1,6 +1,6 @@
 const tem = document.querySelector(".js-temp");
 const pla = document.querySelector(".js-place");
-const API_KEY = "your key";
+const API_KEY = "cd96e27fd97f101e1e1227f7e5198215";
 const COORDS = "coords";
 
 // api 에서 위도 경도를 가지로 날씨와 장소 받아오기
